@@ -1,0 +1,1 @@
+# vk_big_data_practice_1
